@@ -1,0 +1,2 @@
+# TFG
+O objetivo principal deste trabalho final de graduação é a análise da aplicação do aprendizado profundo para classificação de dados. Especificamente o projeto se concentra na descrição dos modelos de aprendizado profundo apresentados na literatura que se adéquam à tarefa de classificação; e seleção de um modelo para estudo da implementação. A validação do modelo será realizada através de um conjunto de dados simples disponível nos grandes repositórios de dados para teste de técnicas de aprendizado de máquina.  
